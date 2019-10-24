@@ -10,7 +10,7 @@ spring:
 ---
 spring:
   profiles: test #测试环境
-  application: 
+  application:
     name: microservicecloud-config-zs-test
-
-  #必须保存为UTF-8格式
+    
+    #必须保存为UTF-8格式
